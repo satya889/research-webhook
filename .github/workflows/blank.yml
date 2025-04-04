@@ -40,6 +40,7 @@ jobs:
       - name: Deploy some thing
         run:
           echo Deploying something to check GEN AI
+      - name: Deploy some thing 2    
         run:  sleep 30
        
     
